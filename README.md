@@ -41,7 +41,9 @@
     <img height=190  src="https://github-readme-stats-one-bice.vercel.app/api?username=rabbit1026hg&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="@rabbit1026hg's github-readme-stats"/>
   </a>
   <a href="https://github.com/rabbit1026hg?tab=repositories">
-    <img height=190   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbit1026hg&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+<!--     <img height=190   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbit1026hg&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" /> -->
+    <img height=190   src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbit1026hg&show_icons=true&locale=en&layout=compact&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="ovi" />
+   
   </a>
 </div>
 <!-- <br>
