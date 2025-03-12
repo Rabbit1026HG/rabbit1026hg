@@ -7,7 +7,7 @@
 <hr>
 <br />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rabbit1026hg&label=Profile%20views&color=orange&style=flat" alt="rabbit1026hg" />
+  <img src="https://komarev.com/ghpvc/?username=rabbit1026hg&label=Profile%20views&color=blue&style=flat" alt="rabbit1026hg" />
   <a href="https://t.me/rabbit1026hg"><img src="https://img.shields.io/badge/rabbit1026hg-grey?style=flat&logo=telegram" alt="rabbit1026hg" /></a>
   <img src="https://img.shields.io/badge/rabbit1026hg-grey?style=flat&logo=discord" alt="rabbit1026hg" />
   <img src="https://img.shields.io/badge/+12072759374-grey?style=flat&logo=whatsapp" alt="+12072759374" />
